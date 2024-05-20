@@ -8,4 +8,4 @@
 **B. Codes needed to replicate the part "Job duration after a POE training":**
 
 1. The SAS script Creation_base_etude.sas allows to generate all the preprocessing steps. This code creates the database used for implementing the *mixed matching* methodology.
-2. The R script allows to implement the mixed matching methodology.
+2. The R script allows to implement the *mixed matching* methodology.
